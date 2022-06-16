@@ -607,6 +607,19 @@ h6,
 #cont{
 	transition:transform 0.2s;
 }
+
+.carousel{
+    margin: 100px 0px 0px 0px;
+}
+
+.about-us{
+    margin: 100px 0px 0px 0px;
+}
+
+.our-projects{
+    margin: 100px 0px 0px 0px;
+}
+
 @media only screen and (max-width: 600px) {
 	.book-card{
 		width: 60vw;
