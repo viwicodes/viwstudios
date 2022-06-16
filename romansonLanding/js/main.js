@@ -82,3 +82,6 @@
     
 })(jQuery);
 
+$(window).ready(function () {
+    $('.spin').hide()
+})
