@@ -244,6 +244,9 @@ h6,
     color: var(--light);
 }
 
+.fa-check::before{
+    color: var(--light);
+}
 
 /*** Section Title ***/
 .section-title {
