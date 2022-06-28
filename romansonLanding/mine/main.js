@@ -103,3 +103,4 @@ document.getElementById("slide1").onclick=()=>{
 	console.log(transformOfBookCard)
 	//alert(n)
 }
+console.log("main")

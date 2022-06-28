@@ -82,6 +82,11 @@
     
 })(jQuery);
 
-$(window).ready(function () {
-    $('.spin').hide()
-})
+$('.spin').hide()
+$('mainly').hide()
+// $(window).load(function () {
+//     $('.spin').show()
+//     $('.mainly').hide()
+// })
+
+console.log("ee main")
